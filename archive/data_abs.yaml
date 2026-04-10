@@ -1,0 +1,6 @@
+train: /Users/abdullah/Documents/Computer_Vision/test/archive/train/images
+val: /Users/abdullah/Documents/Computer_Vision/test/archive/valid/images
+test: /Users/abdullah/Documents/Computer_Vision/test/archive/test/images
+
+nc: 2
+names: ['BasketBall', 'Player']
